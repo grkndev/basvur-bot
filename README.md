@@ -1,5 +1,6 @@
 #  Discord v13 Başvuru Bot
 
+<a href="//www.dmca.com/Protection/Status.aspx?ID=d22cfdb0-2fdb-4c33-94af-1e52be2d070c" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca_protected_sml_120m.png?ID=d22cfdb0-2fdb-4c33-94af-1e52be2d070c"  alt="DMCA.com Protection Status" /></a>  <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
 
  - [Discord Başvuru Bot](https://github.com/GweepCreative/basvur-bot)
       - [Kurulum](#kurulum-pc)
